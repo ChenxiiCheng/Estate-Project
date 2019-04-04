@@ -160,5 +160,10 @@ MESSAGE_TAGS = {
 # EMAIL_USE_TLS = False
 # EMAIL_FROM = ""
 
+try:
+    from .local_settings import *
+except ImportError:
+    pass
+
 
 
