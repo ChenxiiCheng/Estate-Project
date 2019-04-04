@@ -149,15 +149,16 @@ MESSAGE_TAGS = {
 # Email config
 # EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = 587
-# EMAIL_HOST_USER = 'heychris.xi@gmail.com'
-# EMAIL_HOST_PASSWORD = 'ccx1103ccx'
+# EMAIL_HOST_USER = ''
+# EMAIL_HOST_PASSWORD = ''
 # EMAIL_USE_TLS = True
-EMAIL_HOST = "smtp.sina.com"
-EMAIL_PORT = 25
-EMAIL_HOST_USER = "chengxiaoxi03@sina.com"
-EMAIL_HOST_PASSWORD = "qwe123qwe"
-EMAIL_USE_TLS = False
-EMAIL_FROM = "chengxiaoxi03@sina.com"
+
+# EMAIL_HOST = "smtp.sina.com"
+# EMAIL_PORT = 25
+# EMAIL_HOST_USER = ""
+# EMAIL_HOST_PASSWORD = ""
+# EMAIL_USE_TLS = False
+# EMAIL_FROM = ""
 
 
 
